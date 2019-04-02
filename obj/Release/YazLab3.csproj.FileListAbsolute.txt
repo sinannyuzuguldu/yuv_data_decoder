@@ -1,0 +1,14 @@
+c:\users\bedirhan\source\repos\YazLab3\YazLab3\bin\Release\YazLab3.exe.config
+c:\users\bedirhan\source\repos\YazLab3\YazLab3\bin\Release\YazLab3.exe
+c:\users\bedirhan\source\repos\YazLab3\YazLab3\bin\Release\YazLab3.pdb
+c:\users\bedirhan\source\repos\YazLab3\YazLab3\bin\Release\Interop.WMPLib.dll
+c:\users\bedirhan\source\repos\YazLab3\YazLab3\bin\Release\AxInterop.WMPLib.dll
+c:\users\bedirhan\source\repos\YazLab3\YazLab3\obj\Release\Interop.WMPLib.dll
+c:\users\bedirhan\source\repos\YazLab3\YazLab3\obj\Release\AxInterop.WMPLib.dll
+c:\users\bedirhan\source\repos\YazLab3\YazLab3\obj\Release\YazLab3.csproj.ResolveComReference.cache
+c:\users\bedirhan\source\repos\YazLab3\YazLab3\obj\Release\YazLab3.Form1.resources
+c:\users\bedirhan\source\repos\YazLab3\YazLab3\obj\Release\YazLab3.Properties.Resources.resources
+c:\users\bedirhan\source\repos\YazLab3\YazLab3\obj\Release\YazLab3.csproj.GenerateResource.cache
+c:\users\bedirhan\source\repos\YazLab3\YazLab3\obj\Release\YazLab3.csproj.CoreCompileInputs.cache
+c:\users\bedirhan\source\repos\YazLab3\YazLab3\obj\Release\YazLab3.exe
+c:\users\bedirhan\source\repos\YazLab3\YazLab3\obj\Release\YazLab3.pdb

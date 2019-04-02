@@ -1,0 +1,60 @@
+c:\users\bedirhan\source\repos\YazLab3\YazLab3\bin\Debug\YazLab3.exe.config
+c:\users\bedirhan\source\repos\YazLab3\YazLab3\bin\Debug\YazLab3.exe
+c:\users\bedirhan\source\repos\YazLab3\YazLab3\bin\Debug\YazLab3.pdb
+c:\users\bedirhan\source\repos\YazLab3\YazLab3\bin\Debug\Interop.WMPLib.dll
+c:\users\bedirhan\source\repos\YazLab3\YazLab3\bin\Debug\AxInterop.WMPLib.dll
+c:\users\bedirhan\source\repos\YazLab3\YazLab3\obj\Debug\YazLab3.csprojAssemblyReference.cache
+c:\users\bedirhan\source\repos\YazLab3\YazLab3\obj\Debug\Interop.WMPLib.dll
+c:\users\bedirhan\source\repos\YazLab3\YazLab3\obj\Debug\AxInterop.WMPLib.dll
+c:\users\bedirhan\source\repos\YazLab3\YazLab3\obj\Debug\YazLab3.csproj.ResolveComReference.cache
+c:\users\bedirhan\source\repos\YazLab3\YazLab3\obj\Debug\YazLab3.Form1.resources
+c:\users\bedirhan\source\repos\YazLab3\YazLab3\obj\Debug\YazLab3.Properties.Resources.resources
+c:\users\bedirhan\source\repos\YazLab3\YazLab3\obj\Debug\YazLab3.csproj.GenerateResource.cache
+c:\users\bedirhan\source\repos\YazLab3\YazLab3\obj\Debug\YazLab3.csproj.CoreCompileInputs.cache
+c:\users\bedirhan\source\repos\YazLab3\YazLab3\obj\Debug\YazLab3.exe
+c:\users\bedirhan\source\repos\YazLab3\YazLab3\obj\Debug\YazLab3.pdb
+C:\Users\Sinan\Desktop\YazLab3\YazLab3\bin\Debug\YazLab3.exe.config
+C:\Users\Sinan\Desktop\YazLab3\YazLab3\bin\Debug\YazLab3.exe
+C:\Users\Sinan\Desktop\YazLab3\YazLab3\bin\Debug\YazLab3.pdb
+C:\Users\Sinan\Desktop\YazLab3\YazLab3\bin\Debug\Interop.WMPLib.dll
+C:\Users\Sinan\Desktop\YazLab3\YazLab3\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Sinan\Desktop\YazLab3\YazLab3\obj\Debug\YazLab3.csprojAssemblyReference.cache
+C:\Users\Sinan\Desktop\YazLab3\YazLab3\obj\Debug\Interop.WMPLib.dll
+C:\Users\Sinan\Desktop\YazLab3\YazLab3\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Sinan\Desktop\YazLab3\YazLab3\obj\Debug\YazLab3.csproj.ResolveComReference.cache
+C:\Users\Sinan\Desktop\YazLab3\YazLab3\obj\Debug\YazLab3.Form1.resources
+C:\Users\Sinan\Desktop\YazLab3\YazLab3\obj\Debug\YazLab3.Properties.Resources.resources
+C:\Users\Sinan\Desktop\YazLab3\YazLab3\obj\Debug\YazLab3.csproj.GenerateResource.cache
+C:\Users\Sinan\Desktop\YazLab3\YazLab3\obj\Debug\YazLab3.csproj.CoreCompileInputs.cache
+C:\Users\Sinan\Desktop\YazLab3\YazLab3\obj\Debug\YazLab3.exe
+C:\Users\Sinan\Desktop\YazLab3\YazLab3\obj\Debug\YazLab3.pdb
+C:\Users\Sinan\Desktop\YazLab3\YazLab3\YazLab3\bin\Debug\YazLab3.exe.config
+C:\Users\Sinan\Desktop\YazLab3\YazLab3\YazLab3\bin\Debug\YazLab3.exe
+C:\Users\Sinan\Desktop\YazLab3\YazLab3\YazLab3\bin\Debug\YazLab3.pdb
+C:\Users\Sinan\Desktop\YazLab3\YazLab3\YazLab3\bin\Debug\Interop.WMPLib.dll
+C:\Users\Sinan\Desktop\YazLab3\YazLab3\YazLab3\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Sinan\Desktop\YazLab3\YazLab3\YazLab3\obj\Debug\YazLab3.csprojAssemblyReference.cache
+C:\Users\Sinan\Desktop\YazLab3\YazLab3\YazLab3\obj\Debug\Interop.WMPLib.dll
+C:\Users\Sinan\Desktop\YazLab3\YazLab3\YazLab3\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Sinan\Desktop\YazLab3\YazLab3\YazLab3\obj\Debug\YazLab3.csproj.ResolveComReference.cache
+C:\Users\Sinan\Desktop\YazLab3\YazLab3\YazLab3\obj\Debug\YazLab3.Form1.resources
+C:\Users\Sinan\Desktop\YazLab3\YazLab3\YazLab3\obj\Debug\YazLab3.Properties.Resources.resources
+C:\Users\Sinan\Desktop\YazLab3\YazLab3\YazLab3\obj\Debug\YazLab3.csproj.GenerateResource.cache
+C:\Users\Sinan\Desktop\YazLab3\YazLab3\YazLab3\obj\Debug\YazLab3.csproj.CoreCompileInputs.cache
+C:\Users\Sinan\Desktop\YazLab3\YazLab3\YazLab3\obj\Debug\YazLab3.exe
+C:\Users\Sinan\Desktop\YazLab3\YazLab3\YazLab3\obj\Debug\YazLab3.pdb
+C:\Users\Sinan\Desktop\Yuv Data Çözücü\YazLab3\YazLab3\YazLab3\bin\Debug\YazLab3.exe.config
+C:\Users\Sinan\Desktop\Yuv Data Çözücü\YazLab3\YazLab3\YazLab3\bin\Debug\YazLab3.exe
+C:\Users\Sinan\Desktop\Yuv Data Çözücü\YazLab3\YazLab3\YazLab3\bin\Debug\YazLab3.pdb
+C:\Users\Sinan\Desktop\Yuv Data Çözücü\YazLab3\YazLab3\YazLab3\bin\Debug\Interop.WMPLib.dll
+C:\Users\Sinan\Desktop\Yuv Data Çözücü\YazLab3\YazLab3\YazLab3\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Sinan\Desktop\Yuv Data Çözücü\YazLab3\YazLab3\YazLab3\obj\Debug\YazLab3.csprojAssemblyReference.cache
+C:\Users\Sinan\Desktop\Yuv Data Çözücü\YazLab3\YazLab3\YazLab3\obj\Debug\Interop.WMPLib.dll
+C:\Users\Sinan\Desktop\Yuv Data Çözücü\YazLab3\YazLab3\YazLab3\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Sinan\Desktop\Yuv Data Çözücü\YazLab3\YazLab3\YazLab3\obj\Debug\YazLab3.csproj.ResolveComReference.cache
+C:\Users\Sinan\Desktop\Yuv Data Çözücü\YazLab3\YazLab3\YazLab3\obj\Debug\YazLab3.Form1.resources
+C:\Users\Sinan\Desktop\Yuv Data Çözücü\YazLab3\YazLab3\YazLab3\obj\Debug\YazLab3.Properties.Resources.resources
+C:\Users\Sinan\Desktop\Yuv Data Çözücü\YazLab3\YazLab3\YazLab3\obj\Debug\YazLab3.csproj.GenerateResource.cache
+C:\Users\Sinan\Desktop\Yuv Data Çözücü\YazLab3\YazLab3\YazLab3\obj\Debug\YazLab3.csproj.CoreCompileInputs.cache
+C:\Users\Sinan\Desktop\Yuv Data Çözücü\YazLab3\YazLab3\YazLab3\obj\Debug\YazLab3.exe
+C:\Users\Sinan\Desktop\Yuv Data Çözücü\YazLab3\YazLab3\YazLab3\obj\Debug\YazLab3.pdb
